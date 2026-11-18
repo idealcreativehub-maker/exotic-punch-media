@@ -20,8 +20,8 @@
     "delete_after": "2026-11-24T03:00:00+00:00"
   },
   "2026-11-american-muscle-drive-home-cover.jpg": {
-    "posted_at": "2026-11-17T01:00:00+00:00",
-    "delete_after": "2026-11-24T03:00:00+00:00"
+    "posted_at": "2026-11-19T17:00:00+00:00",
+    "delete_after": "2026-11-26T17:00:00+00:00"
   },
   "2026-11-american-muscle-drive-home-v2.mp4": {
     "posted_at": "2026-11-17T01:00:00+00:00",
@@ -34,5 +34,9 @@
   "2026-11-tough-ride-cover.jpg": {
     "posted_at": "2026-11-17T17:00:00+00:00",
     "delete_after": "2026-11-24T19:00:00+00:00"
+  },
+  "2026-11-american-muscle-drive-home-v4.mp4": {
+    "posted_at": "2026-11-19T17:00:00+00:00",
+    "delete_after": "2026-11-26T17:00:00+00:00"
   }
 }
